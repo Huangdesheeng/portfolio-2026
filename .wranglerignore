@@ -1,0 +1,9 @@
+node_modules/
+.git/
+*.psd
+作品/电商板块/
+compress*.js
+package*.json
+参考代码/
+联系/
+portfolio-react/

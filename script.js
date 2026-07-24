@@ -379,7 +379,7 @@ function initLightbox() {
         if (/\.(mp4|webm|ogg)$/i.test(url)) {
           return `<div class="detail-item"><video src="${url}" autoplay controls loop muted playsinline style="width:100%;height:100%;object-fit:contain;"></video></div>`;
         }
-        return `<div class="detail-item"><img src="${url}" alt="" /></div>`;
+        return `<div class="detail-item"><img src="${url}" alt="" loading="lazy" /></div>`;
       }
       return `<div class="detail-item" style="background: ${item.gradient}"><span>${item.text}</span></div>`;
     }).join('');
