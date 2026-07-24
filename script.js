@@ -147,184 +147,184 @@ function initLightbox() {
     {
       id: 1,
       gallery: [
-        { gradient: "url('作品/作品1.jpg') center/contain no-repeat #1a1a1a", text: '', details: [
-          { gradient: "url('作品/作品1.jpg') center/contain no-repeat #1a1a1a", text: '' },
-          { gradient: "url('作品/品牌要素.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/情绪版1.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/情绪版2.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/设计理念1.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/设计理念2.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/品牌色彩1.jpg') center/contain no-repeat #2d5a3d", text: '' },
-          { gradient: "url('作品/品牌色彩2.jpg') center/contain no-repeat #c9a96e", text: '' },
-          { gradient: "url('作品/LOGO规范.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/LOGO组合1.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/LOGO组合2.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/品牌应用1.jpg') center/contain no-repeat #1a1a1a", text: '' },
-          { gradient: "url('作品/品牌应用2.jpg') center/contain no-repeat #2d5a3d", text: '' },
-          { gradient: "url('作品/品牌应用3.jpg') center/contain no-repeat #2d5a3d", text: '' },
-          { gradient: "url('作品/品牌应用4.jpg') center/contain no-repeat #2d5a3d", text: '' },
-          { gradient: "url('作品/品牌应用5.jpg') center/contain no-repeat #d4c4a8", text: '' },
-          { gradient: "url('作品/品牌应用6.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/品牌应用7.jpg') center/contain no-repeat #2d5a3d", text: '' },
-          { gradient: "url('作品/品牌应用8.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/品牌应用9.jpg') center/contain no-repeat #2d5a3d", text: '' },
-          { gradient: "url('作品/品牌应用10.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/品牌应用11.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/画册.png') center/contain no-repeat #f5f5f5", text: '' }
+        { gradient: "url('作品/作品1.webp') center/contain no-repeat #1a1a1a", text: '', details: [
+          { gradient: "url('作品/作品1.webp') center/contain no-repeat #1a1a1a", text: '' },
+          { gradient: "url('作品/品牌要素.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/情绪版1.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/情绪版2.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/设计理念1.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/设计理念2.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/品牌色彩1.webp') center/contain no-repeat #2d5a3d", text: '' },
+          { gradient: "url('作品/品牌色彩2.webp') center/contain no-repeat #c9a96e", text: '' },
+          { gradient: "url('作品/LOGO规范.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/LOGO组合1.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/LOGO组合2.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/品牌应用1.webp') center/contain no-repeat #1a1a1a", text: '' },
+          { gradient: "url('作品/品牌应用2.webp') center/contain no-repeat #2d5a3d", text: '' },
+          { gradient: "url('作品/品牌应用3.webp') center/contain no-repeat #2d5a3d", text: '' },
+          { gradient: "url('作品/品牌应用4.webp') center/contain no-repeat #2d5a3d", text: '' },
+          { gradient: "url('作品/品牌应用5.webp') center/contain no-repeat #d4c4a8", text: '' },
+          { gradient: "url('作品/品牌应用6.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/品牌应用7.webp') center/contain no-repeat #2d5a3d", text: '' },
+          { gradient: "url('作品/品牌应用8.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/品牌应用9.webp') center/contain no-repeat #2d5a3d", text: '' },
+          { gradient: "url('作品/品牌应用10.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/品牌应用11.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/画册.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]},
-        { gradient: "url('作品/APP说明.jpg') center/contain no-repeat #f5f5f5", text: '', details: [
-          { gradient: "url('作品/APP说明.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/色彩设计.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/设计方案1.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/设计方案2.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/设计方案3.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/方案汇总.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/图标展示.jpg') center/contain no-repeat #f5f5f5", text: '' }
+        { gradient: "url('作品/APP说明.webp') center/contain no-repeat #f5f5f5", text: '', details: [
+          { gradient: "url('作品/APP说明.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/色彩设计.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/设计方案1.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/设计方案2.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/设计方案3.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/方案汇总.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/图标展示.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]},
-        { gradient: "url('作品/ITZR智仁.jpg') center/contain no-repeat #1a1a1a", text: '', details: [
-          { gradient: "url('作品/ITZR智仁.jpg') center/contain no-repeat #1a1a1a", text: '' },
-          { gradient: "url('作品/ITZR_logo.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/ITZR贴纸.jpg') center/contain no-repeat #d0d0d0", text: '' },
-          { gradient: "url('作品/ITZR画册.jpg') center/contain no-repeat #d0d0d0", text: '' },
-          { gradient: "url('作品/ITZR工牌.jpg') center/contain no-repeat #d0d0d0", text: '' },
-          { gradient: "url('作品/ITZR杯子.jpg') center/contain no-repeat #d0d0d0", text: '' },
-          { gradient: "url('作品/ITZR名片.jpg') center/contain no-repeat #d0d0d0", text: '' }
+        { gradient: "url('作品/ITZR智仁.webp') center/contain no-repeat #1a1a1a", text: '', details: [
+          { gradient: "url('作品/ITZR智仁.webp') center/contain no-repeat #1a1a1a", text: '' },
+          { gradient: "url('作品/ITZR_logo.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/ITZR贴纸.webp') center/contain no-repeat #d0d0d0", text: '' },
+          { gradient: "url('作品/ITZR画册.webp') center/contain no-repeat #d0d0d0", text: '' },
+          { gradient: "url('作品/ITZR工牌.webp') center/contain no-repeat #d0d0d0", text: '' },
+          { gradient: "url('作品/ITZR杯子.webp') center/contain no-repeat #d0d0d0", text: '' },
+          { gradient: "url('作品/ITZR名片.webp') center/contain no-repeat #d0d0d0", text: '' }
         ]},
-        { gradient: "url('作品/GBA医疗工牌.jpg') center/contain no-repeat #f5f5f5", text: '', details: [
-          { gradient: "url('作品/GBA医疗工牌.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/GBA_logo.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/GBA展架.jpg') center/contain no-repeat #3a6b9f", text: '' },
-          { gradient: "url('作品/GBA形象墙.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/GBA手提袋.jpg') center/contain no-repeat #f5f5f5", text: '' }
+        { gradient: "url('作品/GBA医疗工牌.webp') center/contain no-repeat #f5f5f5", text: '', details: [
+          { gradient: "url('作品/GBA医疗工牌.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/GBA_logo.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/GBA展架.webp') center/contain no-repeat #3a6b9f", text: '' },
+          { gradient: "url('作品/GBA形象墙.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/GBA手提袋.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]}
       ]
     },
     {
       id: 2,
       gallery: [
-        { gradient: "url('作品/产品包装.jpg') center/contain no-repeat #f5f5f5", text: '', details: [
-          { gradient: "url('作品/产品包装.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/产品包装展开.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/SECAM包装.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/SECAM说明书.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/SD卡包装.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/Superior包装.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/SmartIP包装.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/MMV包装.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/Geeni包装.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/陈皮白茶包装.png') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/ECHIPS包装.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/Garza包装.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/太阳能板说明书.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/智能门铃详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/产品标签设计.jpg') center/contain no-repeat #f5f5f5", text: '' }
+        { gradient: "url('作品/产品包装.webp') center/contain no-repeat #f5f5f5", text: '', details: [
+          { gradient: "url('作品/产品包装.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/产品包装展开.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/SECAM包装.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/SECAM说明书.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/SD卡包装.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/Superior包装.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/SmartIP包装.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/MMV包装.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/Geeni包装.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/陈皮白茶包装.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/ECHIPS包装.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/Garza包装.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/太阳能板说明书.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/智能门铃详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/产品标签设计.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]},
-        { gradient: "url('作品/电商设计2.jpg') center/contain no-repeat #f5f5f5", text: '', details: [
-          { gradient: "url('作品/电商设计详情1.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/美妆banner.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/美妆banner2.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/手表详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/香薰详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/香薰详情2.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/饰品包装详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/蜡烛详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/香薰片详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/车载香薰详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/安防摄像头详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/电商banner图.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/洗护banner图.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/香氛洗护详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/檀木香氛详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/美妆详情图.jpg') center/contain no-repeat #f5f5f5", text: '' }
+        { gradient: "url('作品/电商设计2.webp') center/contain no-repeat #f5f5f5", text: '', details: [
+          { gradient: "url('作品/电商设计详情1.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/美妆banner.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/美妆banner2.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/手表详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/香薰详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/香薰详情2.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/饰品包装详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/蜡烛详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/香薰片详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/车载香薰详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/安防摄像头详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/电商banner图.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/洗护banner图.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/香氛洗护详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/檀木香氛详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/美妆详情图.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]},
-        { gradient: "url('作品/笔记本电脑封面.jpg') center/contain no-repeat #f5f5f5", text: '', details: [
-          { gradient: "url('作品/笔记本电脑封面.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/一体机详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/平板电脑详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/平板电脑X10详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/ITZR一体机详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/行车记录仪详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/平板电脑详情2.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/行车记录仪功能详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/平板电脑详情3.jpg') center/contain no-repeat #f5f5f5", text: '' }
+        { gradient: "url('作品/笔记本电脑封面.webp') center/contain no-repeat #f5f5f5", text: '', details: [
+          { gradient: "url('作品/笔记本电脑封面.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/一体机详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/平板电脑详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/平板电脑X10详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/ITZR一体机详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/行车记录仪详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/平板电脑详情2.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/行车记录仪功能详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/平板电脑详情3.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]}
       ]
     },
     {
       id: 3,
       gallery: [
-        { gradient: "url('作品/AIO电脑详情.jpg') center/contain no-repeat #f5f5f5", text: '', details: [
-          { gradient: "url('作品/AIO电脑详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/VR设备详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/安防摄像头详情2.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/安防摄像头详情3.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/安防摄像头详情4.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/安防摄像头详情5.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/手机指环支架详情.jpg') center/contain no-repeat #f5f5f5", text: '' }
+        { gradient: "url('作品/AIO电脑详情.webp') center/contain no-repeat #f5f5f5", text: '', details: [
+          { gradient: "url('作品/AIO电脑详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/VR设备详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/安防摄像头详情2.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/安防摄像头详情3.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/安防摄像头详情4.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/安防摄像头详情5.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/手机指环支架详情.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]},
-        { gradient: "url('作品/行车记录仪多角度.jpg') center/contain no-repeat #f5f5f5", text: '', details: [
-          { gradient: "url('作品/行车记录仪多角度.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/行车记录仪详情1.png') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/行车记录仪详情2.png') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/行车记录仪详情3.png') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/行车记录仪详情4.png') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/行车记录仪详情5.png') center/contain no-repeat #f5f5f5", text: '' }
+        { gradient: "url('作品/行车记录仪多角度.webp') center/contain no-repeat #f5f5f5", text: '', details: [
+          { gradient: "url('作品/行车记录仪多角度.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/行车记录仪详情1.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/行车记录仪详情2.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/行车记录仪详情3.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/行车记录仪详情4.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/行车记录仪详情5.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]},
-        { gradient: "url('作品/WiFi摄像头.jpg') center/contain no-repeat #f5f5f5", text: '', details: [
-          { gradient: "url('作品/WiFi摄像头.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/WiFi摄像头详情1.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/WiFi摄像头详情2.jpg') center/contain no-repeat #f5f5f5", text: '' },
+        { gradient: "url('作品/WiFi摄像头.webp') center/contain no-repeat #f5f5f5", text: '', details: [
+          { gradient: "url('作品/WiFi摄像头.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/WiFi摄像头详情1.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/WiFi摄像头详情2.webp') center/contain no-repeat #f5f5f5", text: '' },
           { gradient: "url('Items/WiFi摄像头详情3.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/WiFi摄像头详情4.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/WiFi摄像头详情5.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/WiFi摄像头详情7.jpg') center/contain no-repeat #f5f5f5", text: '' }
+          { gradient: "url('作品/WiFi摄像头详情4.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/WiFi摄像头详情5.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/WiFi摄像头详情7.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]},
-        { gradient: "url('作品/珠宝首饰.jpg') center/contain no-repeat #f5f5f5", text: '', details: [
-          { gradient: "url('作品/珠宝首饰.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/玫瑰金箭头手链详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/玫瑰金四叶草耳钉详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/金色珍珠吊坠详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/金色珍珠项链详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/玫瑰金星星套装详情.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/玫瑰金星星套装展示.jpg') center/contain no-repeat #f5f5f5", text: '' }
+        { gradient: "url('作品/珠宝首饰.webp') center/contain no-repeat #f5f5f5", text: '', details: [
+          { gradient: "url('作品/珠宝首饰.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/玫瑰金箭头手链详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/玫瑰金四叶草耳钉详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/金色珍珠吊坠详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/金色珍珠项链详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/玫瑰金星星套装详情.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/玫瑰金星星套装展示.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]}
       ]
     },
     {
       id: 4,
       gallery: [
-        { gradient: "url('作品/UAPP封面.jpg') center/contain no-repeat #1a1a2e", text: '', details: [
-          { gradient: "url('作品/UAPP封面.jpg') center/contain no-repeat #1a1a2e", text: '' },
-          { gradient: "url('作品/UAPP详情1.jpg') center/contain no-repeat #1a1a2e", text: '' },
-          { gradient: "url('作品/UAPP详情2.jpg') center/contain no-repeat #1a1a2e", text: '' },
-          { gradient: "url('作品/UAPP详情3.jpg') center/contain no-repeat #1a1a2e", text: '' },
-          { gradient: "url('作品/UAPP详情4.jpg') center/contain no-repeat #1a1a2e", text: '' }
+        { gradient: "url('作品/UAPP封面.webp') center/contain no-repeat #1a1a2e", text: '', details: [
+          { gradient: "url('作品/UAPP封面.webp') center/contain no-repeat #1a1a2e", text: '' },
+          { gradient: "url('作品/UAPP详情1.webp') center/contain no-repeat #1a1a2e", text: '' },
+          { gradient: "url('作品/UAPP详情2.webp') center/contain no-repeat #1a1a2e", text: '' },
+          { gradient: "url('作品/UAPP详情3.webp') center/contain no-repeat #1a1a2e", text: '' },
+          { gradient: "url('作品/UAPP详情4.webp') center/contain no-repeat #1a1a2e", text: '' }
         ]},
-        { gradient: "url('作品/第四个列表2封面.jpg') center/contain no-repeat #1a1a2e", text: '', details: [
+        { gradient: "url('作品/第四个列表2封面.webp') center/contain no-repeat #1a1a2e", text: '', details: [
           { gradient: "url('作品/第四个详情2.mp4') center/contain no-repeat #1a1a2e", text: '' },
-          { gradient: "url('作品/第四个详情2-1.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/第四个详情2-2.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/第四个详情2-3.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/第四个详情2-4.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/第四个详情2-5.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/第四个详情2-6.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/第四个详情2-7.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/第四个详情2-8.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/第四个详情2-9.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/第四个详情2-10.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/第四个详情2-11.jpg') center/contain no-repeat #f5f5f5", text: '' }
+          { gradient: "url('作品/第四个详情2-1.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/第四个详情2-2.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/第四个详情2-3.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/第四个详情2-4.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/第四个详情2-5.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/第四个详情2-6.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/第四个详情2-7.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/第四个详情2-8.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/第四个详情2-9.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/第四个详情2-10.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/第四个详情2-11.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]},
-        { gradient: "url('作品/云天团封面.jpg') center/contain no-repeat #4a9c3d", text: '', details: [
-          { gradient: "url('作品/云天团封面.jpg') center/contain no-repeat #4a9c3d", text: '' },
-          { gradient: "url('作品/云天团详情1.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/云天团详情2.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/云天团详情3.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/云天团详情4.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/云天团详情5.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/云天团详情6.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/云天团详情7.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/云天团详情8.jpg') center/contain no-repeat #f5f5f5", text: '' },
-          { gradient: "url('作品/云天团详情9.jpg') center/contain no-repeat #f5f5f5", text: '' }
+        { gradient: "url('作品/云天团封面.webp') center/contain no-repeat #4a9c3d", text: '', details: [
+          { gradient: "url('作品/云天团封面.webp') center/contain no-repeat #4a9c3d", text: '' },
+          { gradient: "url('作品/云天团详情1.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/云天团详情2.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/云天团详情3.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/云天团详情4.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/云天团详情5.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/云天团详情6.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/云天团详情7.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/云天团详情8.webp') center/contain no-repeat #f5f5f5", text: '' },
+          { gradient: "url('作品/云天团详情9.webp') center/contain no-repeat #f5f5f5", text: '' }
         ]}
       ]
     }
