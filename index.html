@@ -6,6 +6,42 @@
   <title>黄德生 | 视觉设计师 - AI设计师 - 品牌设计师</title>
   <link rel="stylesheet" href="styles.css">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <!-- 微信浏览器检测 -->
+  <style>
+    .wechat-overlay {
+      display: none;
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.95);
+      z-index: 99999;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      color: #fff;
+      text-align: center;
+      padding: 40px;
+    }
+    .wechat-overlay .arrow {
+      position: absolute;
+      top: 20px;
+      right: 30px;
+      font-size: 60px;
+      animation: bounce 1s infinite;
+    }
+    .wechat-overlay h2 {
+      font-size: 22px;
+      margin-bottom: 20px;
+    }
+    .wechat-overlay p {
+      font-size: 16px;
+      color: #ccc;
+      line-height: 1.8;
+    }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-15px); }
+    }
+  </style>
 </head>
 <body>
   <!-- 导航栏 -->
@@ -365,7 +401,20 @@
 
   <!-- 灯箱弹窗 - 每个卡片独立 -->
 
+  <!-- 微信浏览器提示 -->
+  <div class="wechat-overlay" id="wechatOverlay">
+    <div class="arrow">↗</div>
+    <h2>点击右上角</h2>
+    <p>选择 <strong>「在浏览器中打开」</strong><br>即可正常访问网站</p>
+  </div>
+
   <script src="script.js"></script>
   <script src="dotfield.js"></script>
+  <script>
+    // 检测微信浏览器
+    if (/MicroMessenger/i.test(navigator.userAgent)) {
+      document.getElementById('wechatOverlay').style.display = 'flex';
+    }
+  </script>
 </body>
 </html>
